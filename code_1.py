@@ -1,3 +1,7 @@
+# Salud
+Nombre = input("¿Cómo te llamas? :  ")
+print(f"Hola {Nombre}! Bienvenido al programa de Cálculo de áreas")
+# Área de un cuadrado, triángulo y círculo.
 import math
 def area_cuadrado():
     lado = float(input("Ingresa el lado del cuadrado: "))
