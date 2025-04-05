@@ -1,4 +1,4 @@
-# Salud
+# Saludo al usuario y presentación del programa
 Nombre = input("¿Cómo te llamas? :  ")
 print(f"Hola {Nombre}! Bienvenido al programa de Cálculo de áreas")
 # Área de un cuadrado, triángulo y círculo.
